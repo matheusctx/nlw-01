@@ -20,7 +20,7 @@ __Ecoleta__ é um projeto desenvolvido com base na Semana Internacional do Meio 
 ## Tecnologias utilizadas
 - ![Expo](https://img.shields.io/badge/-Expo-blue.svg?style=flat-square&logo=Expo&color=000020&logoColor=fff)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-blue.svg?style=flat-square&logo=JavaScript&color=F7DF1E&logoColor=fff)
-- ![Json](https://img.shields.io/badge/-Json-blue.svg?style=flat-square&logo=Json&color=000&logoColor=fff)
+- ![JSON](https://img.shields.io/badge/-JSON-blue.svg?style=flat-square&logo=Json&color=555555&logoColor=fff)
 - ![Leaflet](https://img.shields.io/badge/-Leaflet-blue.svg?style=flat-square&logo=Leaflet&color=199900&logoColor=fff)
 - ![NodeJS](https://img.shields.io/badge/-NodeJS-blue.svg?style=flat-square&logo=Node.JS&color=8CC03D&logoColor=fff)
 - ![Node Package Manager](https://img.shields.io/badge/-NPM-blue.svg?style=flat-square&logo=NPM&color=CB3837&logoColor=fff)
