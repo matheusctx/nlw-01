@@ -35,7 +35,7 @@ __Ecoleta__ é um projeto desenvolvido com base na Semana Internacional do Meio 
 * [IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades): API referente às divisões político-administrativas do Brasil.
 </br>
 
-###### Projeto desenvolvido no Next Level Week #01 da [RocketSeat](https://rocketseat.com.br).<br/> Respaldado pela licença MIT <br/> By: Matheus Teixeira
+###### Projeto desenvolvido no Next Level Week #01 da [RocketSeat](https://rocketseat.com.br).<br/> By: Matheus Teixeira
 
 
 
