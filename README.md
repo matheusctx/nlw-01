@@ -9,7 +9,7 @@
 __NLW__ é um evento de uma semana cuja máxima e acelerar a evolução de desenvolvedores para avançarem ao próximo nível. É uma experiência online com muito conteúdo prático, desafios, hacks e uma comunidade incrível feita na Rocketseat.
 
 ## O projeto
-__Ecoleta__ é um projeto desenvolvido com base na Semana Internacional do Meio Ambiente (primeira semana do mês de junho). O sistema conecta pessoas às empresas que dispõem de pontos de coleta de itens em seu estabelecimento, tais quais resíduos orgânicos, papéis e papelão, resíduos eletrônicos, pilhas e baterias, dentre outros.
+__Ecoleta__ é um projeto desenvolvido com base na Semana Internacional do Meio Ambiente (primeira semana do mês de junho). O sistema conecta pessoas com as empresas que dispõem de pontos de coleta de itens em seu estabelecimento, tais quais resíduos orgânicos, papéis e papelão, resíduos eletrônicos, pilhas e baterias, dentre outros.
 </br>
 </br>
 <p align="center">
