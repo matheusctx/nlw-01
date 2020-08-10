@@ -1,5 +1,3 @@
-<p align="center"><img src="https://lander.rocketseat.dev/uploads/nextlevelweek_18baaf82af.svg"/></p>
- 
  ## Guia de navegação
  
  - [O que é o Next Level Week?](#o-que-é-o-next-level-week)
